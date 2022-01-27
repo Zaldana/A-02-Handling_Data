@@ -1,7 +1,16 @@
 Explain what the ".map" properties of arrays does.
 
+Map calls a function for every item in an array and creates a new array from the results.
+
 Explain what the ".reduce" properties of arrays does.
 
 How is ".map" different from reduce?
 
+Map affects every element inside of an array to create a new array, reduce will 
+only effect the elements in the array that you specify which will return a single value.
+
 What are "switch" statements?
+
+Switch statements evaluate similar to a series of “if else” statements. 
+A switch statement looks for the first case that matches the value of the original expression, 
+it then executes the associated statement.
